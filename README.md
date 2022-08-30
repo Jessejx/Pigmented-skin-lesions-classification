@@ -7,10 +7,11 @@ Malignant skin cancer such as melanoma, basal cell carcinoma, or squamous-cell c
 rapid metastasis, difficulty to find, and other characteristics, early diagnosis of skin cancer can effectively improve the cure rate.  
 Pigmented skin lesion:
 <div align=center>
-<img src="https://github.com/Jessejx/Pigmented-skin-lesions-classification/blob/0da837f86c085a44f1d1a1b4d54c438b5f2853b1/Downstream-pigmented-skin-lesion-classification/figs/7-skin-lesion.png" width="950px">
+<img src="https://github.com/Jessejx/Pigmented-skin-lesions-classification/blob/0da837f86c085a44f1d1a1b4d54c438b5f2853b1/Downstream-pigmented-skin-lesion-classification/figs/7-skin-lesion.png" width="1050px">
 </div>
-## Getting Started  
 
+
+## Getting Started  
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 See deployment for notes on how to deploy the project on your local machine.
 
