@@ -44,7 +44,7 @@ In this repositories, we present downstream pigmented skin lesions classificatio
 4. Afterward, please run the '5-fold-cross.py' to classifier skin lesion
 ### For KNN
 1. cd to "downstream task"
-2. Run the ".py" directly.
+2. Run the "Knn_train.py" directly.
 
 ## Self-supervised-learning
 For skin images unsupervised training, we present proposed method in the paper:
