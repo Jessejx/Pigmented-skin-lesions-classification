@@ -7,7 +7,7 @@ Malignant skin cancer such as melanoma, basal cell carcinoma, or squamous-cell c
 rapid metastasis, difficulty to find, and other characteristics, early diagnosis of skin cancer can effectively improve the cure rate.  
 Pigmented skin lesion:
 <div align=center>
-<img src="https://github.com/Jessejx/Pigmented-skin-lesions-classification/blob/0da837f86c085a44f1d1a1b4d54c438b5f2853b1/Downstream-pigmented-skin-lesion-classification/figs/7-skin-lesion.png" width="750px">
+<img src="https://github.com/Jessejx/Pigmented-skin-lesions-classification/blob/0da837f86c085a44f1d1a1b4d54c438b5f2853b1/Downstream-pigmented-skin-lesion-classification/figs/7-skin-lesion.png" width="950px">
 </div>
 ## Getting Started  
 
@@ -55,13 +55,13 @@ For skin images unsupervised training, we present proposed method in the paper:
 TSEN Results:
 
 <div align=center>
-<img src="https://github.com/Jessejx/Pigmented-skin-lesions-classification/blob/0da837f86c085a44f1d1a1b4d54c438b5f2853b1/Downstream-pigmented-skin-lesion-classification/figs/tsne.png" width="950px">
+<img src="https://github.com/Jessejx/Pigmented-skin-lesions-classification/blob/0da837f86c085a44f1d1a1b4d54c438b5f2853b1/Downstream-pigmented-skin-lesion-classification/figs/tsne.png" width="1050px">
 </div>
 
 CAM Results:
 
 <div align=center>
-<img src="https://github.com/Jessejx/Pigmented-skin-lesions-classification/blob/0da837f86c085a44f1d1a1b4d54c438b5f2853b1/Downstream-pigmented-skin-lesion-classification/figs/cam.png" width="550px">
+<img src="https://github.com/Jessejx/Pigmented-skin-lesions-classification/blob/0da837f86c085a44f1d1a1b4d54c438b5f2853b1/Downstream-pigmented-skin-lesion-classification/figs/cam.png" width="450px">
 </div>
 
 ## Citation
