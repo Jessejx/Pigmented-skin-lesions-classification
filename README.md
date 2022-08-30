@@ -32,12 +32,12 @@ The pretraining dataset can be downloaded from the following URLs:
 
 ## Downstream classification 
 In this repositories, we present downstream pigmented skin lesions classification task (KNN and Transfer learning):
-# For transfer learning
+### For transfer learning
 1. cd to "downstream-task"
 2. Download the pretrained weights:
 3. Load the pretrained weitghts from backbone network in the '5-fold-cross.py':
 4. Afterward, please run the '5-fold-cross.py' to classifier skin lesion
-# For KNN
+### For KNN
 1. cd to "downstream task"
 2. Run the ".py" directly.
 
