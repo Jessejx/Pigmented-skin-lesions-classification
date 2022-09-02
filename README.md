@@ -69,7 +69,7 @@ CAM Results:
 If you use the proposed framework (or any part of this code in your research), please cite the following paper:
 
 ## Contact
-If you have any query, please feel free to contact us at: ljx9339@hotmail.com
+If you have any query, please feel free to contact us
 
 
 
