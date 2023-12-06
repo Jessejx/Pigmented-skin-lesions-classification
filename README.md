@@ -1,6 +1,5 @@
 # Pigmented-skin-lesions-classification
 
-在投图象图形学报论文的代码开源  
 Pigmented skin lesions are almost common around the world, since human skin is generally exposed and highly vulnerable to strong ultraviolet rays 
 and external pathogens, with almost all people having several pigmented lesions. Pigmented skin lesions are caused by melanocyte cells in the body.
 Malignant skin cancer such as melanoma, basal cell carcinoma, or squamous-cell carcinoma is one of the pigmented skin lesions, with a high degree of malignancy, 
